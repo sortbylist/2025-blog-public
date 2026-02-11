@@ -42,17 +42,17 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "button-1770776246575",
-			"type": "email",
-			"value": "jerrylee2016@foxmail.com",
-			"label": "",
-			"order": 1
-		},
-		{
 			"id": "github",
 			"type": "github",
 			"value": "https://github.com/sortbylist",
 			"label": "Github",
+			"order": 1
+		},
+		{
+			"id": "button-1770776246575",
+			"type": "email",
+			"value": "jerrylee2016@foxmail.com",
+			"label": "",
 			"order": 2
 		}
 	],
